@@ -1,0 +1,6 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\EncryptedUniqueStringTest\EncryptedUniqueStringTest\bin\Debug\EncryptedUniqueStringTest.exe.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\EncryptedUniqueStringTest\EncryptedUniqueStringTest\bin\Debug\EncryptedUniqueStringTest.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\EncryptedUniqueStringTest\EncryptedUniqueStringTest\bin\Debug\EncryptedUniqueStringTest.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\EncryptedUniqueStringTest\EncryptedUniqueStringTest\obj\Debug\EncryptedUniqueStringTest.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\EncryptedUniqueStringTest\EncryptedUniqueStringTest\obj\Debug\EncryptedUniqueStringTest.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\EncryptedUniqueStringTest\EncryptedUniqueStringTest\obj\Debug\EncryptedUniqueStringTest.pdb
